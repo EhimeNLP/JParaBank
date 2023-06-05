@@ -9,7 +9,8 @@ wget http://aiweb.cs.ehime-u.ac.jp/~tarumoto/JParaBank.tar.gz
 ## ファイルについて
 - train.jaとtrain.ja'、valid.jaとvalid.ja'が言い換え文対として収集されています。jaがJParaCrawlに含まれる日本語文、ja'が機械翻訳によって生成された言い換え文です。
 - JParaBankには以下のような言い換え文対が含まれています。
-|  ja |  ja'  |
+
+|  ja |  ja' |
 | ---- | ---- |
 |  多くの大型望遠鏡や天文台は、高い山の上にあります。  |  多くの大きな望遠鏡や天文台は高い山頂にあります。  |
 |  ご応募をお待ちしております。  |  皆様のご応募をお待ちしております。  |
