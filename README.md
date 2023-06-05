@@ -1,3 +1,3 @@
 # JParaBank
 
-準備中...
+wget tarumoto@aiweb.cs.ehime-u.ac.jp
