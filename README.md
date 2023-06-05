@@ -1,3 +1,5 @@
 # JParaBank
 
-wget tarumoto@aiweb.cs.ehime-u.ac.jp
+'''
+wget http://aiweb.cs.ehime-u.ac.jp/~tarumoto/JParaBank
+'''
