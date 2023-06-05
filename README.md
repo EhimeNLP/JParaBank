@@ -5,3 +5,7 @@
 ```
 wget http://aiweb.cs.ehime-u.ac.jp/~tarumoto/JParaBank.tar.gz
 ```
+
+## ファイルについて
+- train.jaとtrain.ja'、valid.jaとvalid.ja'が言い換え文対として収集されています。jaがJParaCrawlに含まれる日本語文、ja'が機械翻訳によって生成された言い換え文です。
+- 
